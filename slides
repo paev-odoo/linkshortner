@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <!-- 1. Instant HTML Meta Refresh -->
+  <meta http-equiv="refresh" content="0; url=https://docs.google.com/presentation/d/1iAHjsmDAayXFra360eW6ehqlqGCSHl0fPc3PMFSBZ4Q/export/pdf">
+  <title>Redirecting...</title>
+  <!-- 2. JavaScript fallback in case meta refresh is blocked -->
+  <script>
+    window.location.replace("https://docs.google.com/presentation/d/1iAHjsmDAayXFra360eW6ehqlqGCSHl0fPc3PMFSBZ4Q/export/pdf");
+  </script>
+</head>
+<body>
+  <p>Redirecting to slides... <a href="https://docs.google.com/presentation/d/1iAHjsmDAayXFra360eW6ehqlqGCSHl0fPc3PMFSBZ4Q/export/pdf">Click here if not redirected automatically.</a></p>
+</body>
+</html>
